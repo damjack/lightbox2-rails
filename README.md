@@ -14,7 +14,7 @@
 1. Add to your `Gemfile` and install with bundler:
 
   ```ruby
-  gem 'lightbox2-rails'
+  gem 'lightbox2-sass'
   ```
   
   ```bash
